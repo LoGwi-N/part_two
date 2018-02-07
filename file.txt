@@ -1,0 +1,9 @@
+252-555-7 Moskow Minsk 5 false
+252-545-7 NY Minsk 10 true
+252-585-7 Moskow Minsk 5 false
+253-535-7 Moskow Vilnus 5 true
+252-555-7 Minsk Varshava 3 true
+242-565-7 Gomel Minsk 5 false
+292-595-7 Moskow Minsk 5 false
+8(029)182-41-55 Moskow Minsk 5 false
+242-565-7 Gomel Dubai 7 true
