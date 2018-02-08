@@ -1,0 +1,6 @@
+name1 poroda1 10 black green
+name2 poroda2 4 red blue
+name3 poroda3 6 gray orange
+name4 poroda4 2 zebra light
+name5 poroda5 12 black red
+name6 poroda6 9 black red
