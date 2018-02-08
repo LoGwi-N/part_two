@@ -14,12 +14,12 @@ public class Main {
 
         sortByWeight("down"); // Сортировка
 
-        System.out.print("\ndown");
+        System.out.println("\ndown");
         showList(); // Показываю списко после сортировки
 
         sortByWeight("up"); // Сортировка
 
-        System.out.print("\nup");
+        System.out.println("\nup");
         showList(); // Показываю список после сортировки
 
         deleteCat("coloreye", "blue");   // Удаляю (тип и значение поля) {name, type, color, coloreye, weight}

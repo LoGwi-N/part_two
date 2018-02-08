@@ -108,7 +108,7 @@ public class Cat {
     }
 
     public static void showList(){
-        System.out.println("\nВывод списка");
+        System.out.println();
         Iterator<Cat> iter = listcat.iterator();
         while (iter.hasNext()) {
             System.out.println(iter.next());
@@ -158,9 +158,11 @@ public class Cat {
         switch ( desc ){
             case "up":{
                 Collections.sort(listcat, new CatWeightComparatorUp());
+                break;
             }
             case "down":{
                 Collections.sort(listcat, new CatWeightComparatorDown());
+                break;
             }
         }
     }
