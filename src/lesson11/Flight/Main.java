@@ -1,4 +1,4 @@
-package lesson11;
+package lesson11.Flight;
 
 
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-import static lesson11.Flight.treeMap;
+import static lesson11.Flight.Flight.treeMap;
 
 public class Main {
     public static void main(String[] args) throws IOException {

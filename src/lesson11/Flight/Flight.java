@@ -1,4 +1,4 @@
-package lesson11;
+package lesson11.Flight;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -82,18 +82,6 @@ public class Flight {
                     tmptel = matcherphone.group();
                     end = matcherphone.end();
                 }
-
-//                int i = 0;
-//                while (matcherfrom.find(end)){
-//                    if ( i==0 ){
-//                        tmpfrom = line.substring(matcherfrom.start(),matcherfrom.end());
-//                    } else if( i==1 ){
-//                        tmpto = line.substring(matcherfrom.start(),matcherfrom.end());
-//                    } else if( i==2 ){
-//                        tmpbool = Boolean.parseBoolean(line.substring(matcherfrom.start(),matcherfrom.end()));
-//                    }
-//                    i++;
-//                }
 
                 String tmpfrom = null;
                 while (matcherfrom.find(end)){
